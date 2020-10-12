@@ -1,1 +1,1 @@
-az pipelines run --branch trigger_test --name SSAzSeedTeam.daytrader-MultiStage --org https://dev.azure.com/AzSeedTeam/ -p AzSeed
+az pipelines run --branch Trigger_test_2 --name SSAzSeedTeam.daytrader-MultiStage --org https://dev.azure.com/AzSeedTeam/ -p AzSeed
