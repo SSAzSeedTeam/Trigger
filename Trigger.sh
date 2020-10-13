@@ -1,1 +1,1 @@
-az pipelines run --branch kartik_ConfluentCloudKafka --name developer_daytrader --org https://dev.azure.com/AzSeedTeam/ -p AzSeed 
+az pipelines run --branch trigger_demo --name developer_daytrader --org https://dev.azure.com/AzSeedTeam/ -p AzSeed 
